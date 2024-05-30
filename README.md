@@ -1,4 +1,6 @@
-Pre-Requities:
+**Pre-Requities:**
+
+
     • AWS CLI need to be installed in your terminal
       Link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
     • AWS Configuration need to be done.
